@@ -1,4 +1,4 @@
-Hi 👋 My name is Minh Duong
+Hi 👋 My name is Minh
 ===========================
 
 Frontend Developer
