@@ -6,7 +6,7 @@ Frontend Developer
 
 *   🌍  I'm based in Ho Chi Minh City, Vietnam.
 *   ✉️  You can contact me at [johncegom2013@gmail.com](mailto:johncegom2013@gmail.com)
-*   🧠  I'm learning JavasScript, TypeScript and React.
+*   🧠  I'm learning JavasScript, TypeScript, Angular and React.
 *   🤝  I'm open to collaborating on interesting web projects, check my [Porfolio](https://minhduong.vercel.app/).
 
 ### Skills 
