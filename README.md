@@ -1,22 +1,42 @@
-Hi 👋 My name is Minh
-===========================
+# 👋 Hi, I'm Minh Duong (@johncegom)
 
-Frontend Developer
-------------------
+🚀 **Mobile Developer** | Passionate about building seamless mobile experiences with JavaScript & React Native.
 
-*   🌍  I'm based in Ho Chi Minh City, Vietnam.
-*   ✉️  You can contact me at [johncegom2013@gmail.com](mailto:johncegom2013@gmail.com)
-*   🧠  I'm learning JavasScript, TypeScript, Angular and React.
-*   🤝  I'm open to collaborating on interesting web projects, check my [Porfolio](https://minhduong.vercel.app/).
+---
 
-### Skills 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-</p>
+## 🛠️ Tech Stack
+- **Languages:** JavaScript (ES6+), TypeScript
+- **Frameworks:** React Native, Expo
+- **Tools:** Redux, Firebase, Jest, VS Code
 
-### Socials 
-<p align="left"> <a href="https://www.github.com/johncegom" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/minh-duong-saiko" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+---
+
+## 🌟 About Me
+
+I'm a creative problem-solver who loves crafting beautiful, intuitive apps for iOS and Android. When I'm not coding, you’ll find me exploring new worlds—whether it’s conquering quests in RPGs or diving into books for fresh knowledge. Gaming and reading are my gateways to discovery and growth!
+
+- 🎮 Gamer: From indie gems to AAA titles, always chasing the next adventure
+- 📚 Bookworm: I read for knowledge and love the thrill of acquiring new insights
+- 💡 Always learning something new
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/minh-duong-saiko/)
+
+---
+
+## 🤖 Fun Fact
+
+> "Code is like coffee—better when shared with friends."
+
+---
+
+## 📊 GitHub Stats
+
+![johncegom's GitHub stats](https://github-readme-stats.vercel.app/api?username=johncegom&show_icons=true&hide_title=true)
+
+---
+
+*Thanks for visiting my profile! Let's build something amazing together.*
