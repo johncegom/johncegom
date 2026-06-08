@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Minh Duong (@johncegom)
 
 🚀 **Mobile Developer** | Passionate about building seamless mobile experiences with JavaScript & React Native.
+🛠️ Gopher in Training | Deep-diving into Go to architect robust, scalable fintech infrastructures.
 
 ---
 
