@@ -5,7 +5,7 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** JavaScript (ES6+), TypeScript
+- **Languages:** JavaScript (ES6+), Go, TypeScript
 - **Frameworks:** React Native, Expo
 - **Tools:** Redux, Firebase, Jest, VS Code
 
