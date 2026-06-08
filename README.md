@@ -15,7 +15,7 @@
 
 ## 🌟 About Me
 
-I'm a creative problem-solver who loves crafting beautiful, intuitive apps for iOS and Android. When I'm not coding, you’ll find me exploring new worlds—whether it’s conquering quests in RPGs or diving into books for fresh knowledge. Gaming and reading are my gateways to discovery and growth!
+I'm a creative problem-solver who loves crafting beautiful, intuitive apps for iOS and Android, alongside building backends with Golang out of an enthusiasm for Fintech. When I'm not coding, you’ll find me exploring new worlds—whether it’s conquering quests in RPGs or diving into books for fresh knowledge. Gaming and reading are my gateways to discovery and growth!
 
 - 🎮 Gamer: From indie gems to AAA titles, always chasing the next adventure
 - 📚 Bookworm: I read for knowledge and love the thrill of acquiring new insights
